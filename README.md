@@ -1,24 +1,7 @@
-# README
+共同開発課題4
+人生逆転サロンのカリキュラムで作ったサンプルアプリを変更を加えるごとにコミットしてバージョン管理
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. ActiveAdminで管理者画面の追加（Lv.21：Active Admin を使った管理者画面の作成)
+   ・　ja.ymlを編集するときの注意点
+        admin userのように単語が2つ以上あるときはアンダーバーでつなぐ
+        タブでインデントをしない。半角スペースのみを使う
